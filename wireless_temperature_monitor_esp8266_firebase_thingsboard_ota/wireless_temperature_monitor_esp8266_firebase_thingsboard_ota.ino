@@ -23,7 +23,7 @@
 
 String patient_number = "/0001";        //change this based on the device number
 
-#define UPDATE_INTERVAL (10000)
+#define UPDATE_INTERVAL (300000)
 #define BATTERY_PIN (A0)
 
 #define FIREBASE_HOST "covid19-ph-rizal-antipolo.firebaseio.com" //Do not include https:// in FIREBASE_HOST
