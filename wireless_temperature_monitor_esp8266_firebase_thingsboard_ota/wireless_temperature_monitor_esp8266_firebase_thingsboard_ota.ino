@@ -3,7 +3,7 @@
 
    Email: carlerickrowan@gmail.com
 
-   Github: https://github.com/carlerickrowan/Covid19-Wireless-Thermometer
+   Github: https://github.com/carlerickrowan/Covid19-Patient-Wireless-Monitor-Kit
 
    Facebook: fb.com/fastproto
 
@@ -26,15 +26,15 @@ String patient_number = "/0001";        //change this based on the device number
 #define UPDATE_INTERVAL (300000)
 #define BATTERY_PIN (A0)
 
-#define FIREBASE_HOST "covid19-ph-rizal-antipolo.firebaseio.com" //Do not include https:// in FIREBASE_HOST
-#define FIREBASE_AUTH "DovQddzI6TDOmXtEL0HjTsYeYPtnOwIytAbbpBR4"
+#define FIREBASE_HOST "FILL THIS!" //Do not include https:// in FIREBASE_HOST
+#define FIREBASE_AUTH "FILL THIS!"
 
-#define WIFI_SSID "PLDTHOMEDSL"
-#define WIFI_PASSWORD "carlrowan"
+#define WIFI_SSID "FILL THIS!"
+#define WIFI_PASSWORD "FILL THIS!"
 
 // See https://thingsboard.io/docs/getting-started-guides/helloworld/
 // to understand how to obtain an access token
-#define TOKEN               "prKnlhVh14L6qouWaJoO"
+#define TOKEN               "FILL THIS!"
 #define THINGSBOARD_SERVER  "demo.thingsboard.io"
 
 // GPIO where the DS18B20 is connected to

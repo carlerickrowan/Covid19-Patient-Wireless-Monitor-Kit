@@ -18,11 +18,11 @@
 
 #define UPDATE_INTERVAL (10000)
 
-#define FIREBASE_HOST "covid19-ph-rizal-antipolo.firebaseio.com" //Do not include https:// in FIREBASE_HOST
-#define FIREBASE_AUTH "DovQddzI6TDOmXtEL0HjTsYeYPtnOwIytAbbpBR4"
+#define FIREBASE_HOST "FILL THIS!" //Do not include https:// in FIREBASE_HOST
+#define FIREBASE_AUTH "FILL THIS!"
 
-#define WIFI_SSID "PLDTHOMEDSL"
-#define WIFI_PASSWORD "carlrowan"
+#define WIFI_SSID "FILL THIS!"
+#define WIFI_PASSWORD "FILL THIS!"
 
 // GPIO where the DS18B20 is connected to
 const int oneWireBus = 13;
