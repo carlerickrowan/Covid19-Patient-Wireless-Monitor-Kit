@@ -3,7 +3,7 @@
 
    Email: carlerickrowan@gmail.com
 
-   Github: https://github.com/carlerickrowan/Covid19-Wireless-Thermometer
+   Github: https://github.com/carlerickrowan/Covid19-Patient-Wireless-Monitor-Kit
 
    Facebook: fb.com/fastproto
 
